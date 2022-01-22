@@ -1,2 +1,2 @@
-## Python in PowerBI
+## Python for PowerBI
 

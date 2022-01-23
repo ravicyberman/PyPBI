@@ -1,6 +1,7 @@
 from pprint import pprint
 from configparser import ConfigParser
-from use_power_bi.client import PowerBiClient 
+from use_power_bi import PowerBiClient
+#from powerbi.client import PowerBiClient 
 
      
 config = ConfigParser()
@@ -19,4 +20,3 @@ client_secrect = client_secrect,
 credentials='Config/power_bi_state.jsonc'
 
 )
-

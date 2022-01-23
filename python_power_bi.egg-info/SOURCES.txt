@@ -1,0 +1,7 @@
+README.md
+setup.py
+python_power_bi.egg-info/PKG-INFO
+python_power_bi.egg-info/SOURCES.txt
+python_power_bi.egg-info/dependency_links.txt
+python_power_bi.egg-info/requires.txt
+python_power_bi.egg-info/top_level.txt

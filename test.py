@@ -1,3 +1,2 @@
-import clr
-from System import String
-from System.Collections import *
+import sys 
+a = sys.executable
